@@ -1,0 +1,58 @@
+Welcome to Azul!
+-------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits
+4. Quit
+
+=== Start Round ===
+
+Round 1
+
+TURN FOR PLAYER: A
+
+Factories:
+0: 
+1: R U L B
+2: Y R U L
+3: B Y R U
+4: L B Y R
+5: U L B Y
+Mosaic for A
+1:         . || . . . . .
+2:       . . || . . . . .
+3:     . . . || . . . . .
+4:   . . . . || . . . . .
+5: . . . . . || . . . . .
+broken:
+
+>
+Turn Successful.
+
+TURN FOR PLAYER: B
+
+Factories:
+0: R L B
+1: 
+2: Y R U L
+3: B Y R U
+4: L B Y R
+5: U L B Y
+1:         . || . . . . .
+2:       . . || . . . . .
+3:     . . . || . . . . .
+4:   . . . . || . . . . .
+5: . . . . . || . . . . .
+broken:
+
+>
+Turn Successful.
+
+=== END OF ROUND ===
+
+Game saved successfully as: savedGame
+
+
